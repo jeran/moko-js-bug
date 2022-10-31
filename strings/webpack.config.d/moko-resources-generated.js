@@ -1,6 +1,6 @@
 const path = require('path');
 
-const mokoResourcePath = path.resolve("/Users/jeran/src/moko-js-bug/main/build/generated/moko/jsMain/stringsresources/res");
+const mokoResourcePath = path.resolve("/Users/jeran/src/moko-js-bug/strings/build/generated/moko/jsMain/stringsresources/res");
 
 config.module.rules.push(
     {

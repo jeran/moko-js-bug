@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "moko-js-bug"
 include(":main")
+include(":strings")
